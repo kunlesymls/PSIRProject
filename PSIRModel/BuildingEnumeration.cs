@@ -1,8 +1,8 @@
 ﻿namespace PSIRModel
 {
-    public class Enumeration
+    public class BuildingEnumeration
     {
-        public int EnumerationId { get; set; }
+        public int BuildingEnumerationId { get; set; }
         public string LocalGovtArea { get; set; }
         public string District { get; set; }
         public string TinNumber { get; set; }
